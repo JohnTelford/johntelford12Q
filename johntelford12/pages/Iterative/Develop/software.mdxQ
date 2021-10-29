@@ -1,0 +1,40 @@
+##  Create - Software
+
+<article className="prose prose-sm">
+
+### Create Index
+
+- [Web Site Creation](create) 
+
+#### Create Links
+
+- [ Components](webcomptech)
+- [ Prerequisites](prerequisites) 
+- [ Programming](programming)
+- [ Software](software) 
+- [ Workstations](workstations)  
+
+</article>
+
+## Web Programming
+
+Web programming is not easy. It is complex, time consuming, and expensive. Optimizing the web development environment is critical.
+
+The key for web development are [workstations](workstations). They need to be fast, reliable, supportable, secure, support large screens, and work with web software development applications
+
+The key web software development tasks are editing, use source control system to managing edits, live edit previews, secure web site previews for stakeholders, and deploy to the production web site.
+
+## Languages
+
+The troika of HTML, CSS, and JavaScript has become standard web programming languages that are interpreted and rendered by most web browsers
+
+## Components
+
+Web development technology for the component era
+
+Web Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation.
+
+Web components are a set of web platform APIs that enables creating new custom, reusable, encapsulated HTML tags to use in web pages and web apps. Custom components and widgets build on the Web Component standards, will work across modern browsers, and can be used with any JavaScript library or framework that works with HTML.
+
+Web components are based on existing web standards. They enable web developers to extend HTML with new elements with encapsulated styling and custom behavior.
+

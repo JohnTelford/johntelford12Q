@@ -15,11 +15,36 @@ function MyApp({ Component, pageProps }) {
             content="A Next.js starter styled using Tailwind CSS."
           />
         </Head>
+        
+          <div>
+          <article className="
+            prose prose-lg
+            box-border h w-52
+            border-none
+            py-3
+            
+            bg-yellow-200
+            text-center
+            text-black
+            font-bold
+            leading-tight
+            rounded-lg
+            ">
+
+          Warning <br/>
+          Work in Progress<br/>
+          V 0.1.0
+
+    </article>
+    </div>
 
         <Component {...pageProps} />
 
-      </article>
+    </article>
+      
    </Layout>
+
+   
   );
 }
 

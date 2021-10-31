@@ -18,6 +18,7 @@ export default function Header() {
           </Link>
         </div>
 
+
         <button
           className="flex items-center block px-3 py-2 text-white border border-white rounded md:hidden"
           onClick={() => setMobileMenuIsOpen(!mobileMenuIsOpen)}
@@ -56,5 +57,7 @@ export default function Header() {
         </ul>
       </div>
     </header>
+
+    
   );
 }

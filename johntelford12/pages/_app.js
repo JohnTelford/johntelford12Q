@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
             content="A Next.js starter styled using Tailwind CSS."
           />
         </Head>
-        
+
           <div>
           <article className="
             prose prose-lg
@@ -31,7 +31,6 @@ function MyApp({ Component, pageProps }) {
             rounded-lg
             ">
 
-          Warning <br/>
           Work in Progress<br/>
           V 0.1.0
 
